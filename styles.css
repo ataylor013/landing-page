@@ -52,10 +52,28 @@ body {
     color: white;
     text-align: center;
     text-decoration: none;
-
+    width: 100px;
+    height: 30px;
 }
 
+.third {
+    background-color: #e5e7eb;
+    padding: 0px 100px 50px 100px;
+}
 
+.quote {
+    display: flex;
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: lighter;
+    width: 700px;
+    padding: 50px 50px 50px 300px;
+}
+
+.quote-credit {
+    display: flex;
+    justify-content: flex-end;
+}
 
 
 
@@ -83,6 +101,4 @@ body {
 
 
 
-.third {
-    background-color: #e5e7eb;
-}
+
